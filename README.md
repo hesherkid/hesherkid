@@ -1,11 +1,14 @@
 ### Hi, I'm Allison! 😄
 
 🚚 I've been in the concrete industry for over 15 years
+
 🌱 I'm currently learning HTML, CSS, JavaScript
+
 ⚡ Outside of school and work you can catch me:
-        - In the gym smashing PR's
-        - Baking up a storm in the kitchen 
-        - At the local **metal** show 🤘
+
+  - In the gym smashing PR's
+  - Baking up a storm in the kitchen 
+  - At the local **metal** show 🤘
 
 
 <!--
