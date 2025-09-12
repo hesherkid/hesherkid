@@ -2,7 +2,7 @@
 
 🚚 I've been in the concrete industry for over 15 years
 
-🌱 I'm currently learning HTML, CSS, JavaScript
+🌱 I'm currently learning Python and C#. I've successfully completed courses at the U of A for HTML, CSS, Javascript, Typescript, React, UI/UX. 
 
 ⚡ Outside of school and work you can catch me:
 
