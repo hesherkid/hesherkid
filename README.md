@@ -1,15 +1,14 @@
 ### Hi, I'm Allison! 😄
 
-🚚 I've been in the concrete industry for 18+ years
+🚚 I've been in the concrete industry for 18+ years in the back office. My interest in technology started with the need to manage access databases, create queries or complex excel workbooks to satisfy reporting needs. I've been scratching that itch ever since. I'm looking forward to diving into this career fulltime once I complete my post secondary education and collaborating with the community. 
 
-🌱 I'm currently learning Python and C#. I've successfully completed courses at the U of A for HTML, CSS, Javascript, Typescript, React, UI/UX. 
+🌱 I'm currently learning Python and C#. I've successfully completed courses at the U of A for HTML, CSS, Javascript, Typescript, React, UI/UX. And at SAIT for Power Bi, and Project Management.
 
 ⚡ Outside of school and work you can catch me:
 
   - In the gym smashing PR's
   - Baking up a storm in the kitchen 
   - At the local **metal** show 🤘
-
 
 <!--
 **hesherkid/hesherkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
