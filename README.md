@@ -1,6 +1,6 @@
 ### Hi, I'm Allison! 😄
 
-🚚 I've been in the concrete industry for 16+ years
+🚚 I've been in the concrete industry for 18+ years
 
 🌱 I'm currently learning Python and C#. I've successfully completed courses at the U of A for HTML, CSS, Javascript, Typescript, React, UI/UX. 
 
